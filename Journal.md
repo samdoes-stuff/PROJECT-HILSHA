@@ -193,7 +193,7 @@ The **main robot** will:
 - Hang weightlessly, stabilized by tension, using **servos for positioning**.
 - Function like a **weightless, handless drone** on a wire.
 
----
+--- ~ 3 hours
 
 Problem: I don’t know how to make it work **autonomously**, because it’s neither a rover nor a drone, just a weird *cable drone* run by **servos and wires**.
 
@@ -210,4 +210,49 @@ Problem: I don’t know how to make it work **autonomously**, because it’s nei
                 Sensors, Cameras)
                        ↓
           Cave Entrance for Deployment
+
+## Day 8 (24/07/2025)
+
+Took a long break before starting again.
+
+Came up with the following **detailed rope-deployed lunar cave explorer architecture**:
+
+```
+[ Rover ]
+   |-- Heavy-load Servo (drops battery spike base)
+   |-- Rope Tensioning Mechanism
+   |-- Servo for rope bend/tension adjust
+   |-- LoRa Antenna → Mars Orbiter
+   |-- Receives compressed video from Pi over tether/wireless
+
+[ Rope (Tether) ]
+   |-- PoE cable from Battery Base to Rope Center
+   |-- Physical rope for tension + winch
+
+[ Battery Spike Base ]
+   |-- Power for system via PoE
+   |-- Spike anchors on lunar cave floor
+
+[ Rope Center Module ]
+   |-- Raspberry Pi (3D mapping, image processing, compression)
+        |-- MAVLink with Flight Controller
+        |-- Controls Winch Servo
+        |-- Sends compressed video to Rover
+   |-- Main Winch Servo
+   |-- Power distribution (FC, 3D Depth Camera, Servos)
+
+[ 3D Mapping Module (Suspended) ]
+   |-- Flight Controller (IMU, stabilization)
+        |-- Servo 1: Pan camera
+        |-- Servo 2: Rope tension adjust (optional)
+   |-- 3D Depth Camera (depth capture)
+   |-- Power from Rope Center Module via winch cable
+
+[ Communication Flow ]
+3D camera → Flight Controller → Pi (mapping + compression) → Rover → LoRa → Mars Orbiter
+```
+Also sourced all components and fitted in budget. Made BOM list.
+
+~ 7 hours
+
 
