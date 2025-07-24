@@ -252,6 +252,7 @@ Came up with the following **detailed rope-deployed lunar cave explorer architec
 3D camera → Flight Controller → Pi (mapping + compression) → Rover → LoRa → Mars Orbiter
 ```
 Also sourced all components and fitted in budget. Made BOM list.
+Tomorrow will be the last day of this project I hope.
 
 ~ 7 hours
 
