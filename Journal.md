@@ -257,7 +257,7 @@ Tomorrow will be the last day of this project I hope.
 ~ 7 hours
 
 
-Day- 9
+## Day 9 (25 JULY 25)
 
 I finally sat down with my thoughts and decided on the design for my glorious rover. I mean, we all want that slick, rugged, NASA-esque Mars explorer that looks like it just rolled out of a sci-fi film… but alas, the Printing Legion in my country has vanished into the abyss. 🎭
 
