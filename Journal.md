@@ -257,3 +257,32 @@ Tomorrow will be the last day of this project I hope.
 ~ 7 hours
 
 
+Day- 9
+
+I finally sat down with my thoughts and decided on the design for my glorious rover. I mean, we all want that slick, rugged, NASA-esque Mars explorer that looks like it just rolled out of a sci-fi film… but alas, the Printing Legion in my country has vanished into the abyss. 🎭
+
+The printer warriors are either extinct, hibernating, or stuck in an eternal queue. My Hackpad cases? They’ve been on a voyage longer than the Voyager 1. It’s been 2 months. They may return. Or not. I tried summoning them with tracking IDs, but even the postal gods have ghosted me.
+
+So, I reluctantly abandoned 3D printing. 😤
+If you, lucky reader, have access to the sacred HackClub Printing Legion, count your blessings and check out the links below for making your own rover body. You still have hope. Don't waste it. 🫡
+https://www.thingiverse.com/thing:1240754
+https://www.thingiverse.com/thing:1979227
+
+Then, I entered the realm of spreadsheets (cue dramatic music). I worked on my BEOM (Bill of Expensive Over-Engineered Materials) — basically, the shopping list for every nut, bolt, sensor, and irrational decision I’m putting on this rover.
+
+I also did some deep dives into power sourcing because, let’s face it, the rover won’t run on my frustration and hope alone. The verdict:
+
+A lithium battery pack
+
+A solar panel
+
+And a charger module
+
+Together, they form the Power Trifecta™, giving life to my creation — or at least, helping it blink a few LEDs before crashing due to overdraw. 🔋⚡
+
+And finally, I revisited the BEOM again (yes, again), because my budget was tighter than the tolerances on a misaligned servo. I had to make pinpoint financial positioning, slicing costs like a samurai with a spreadsheet.
+
+That’s it for today’s episode.
+
+
+<img width="952" height="511" alt="Screenshot 2025-07-25 142617" src="https://github.com/user-attachments/assets/ca7dda79-bb21-405b-aad3-775e08187f0d" />
