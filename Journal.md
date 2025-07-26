@@ -282,6 +282,64 @@ Together, they form the Power Trifecta™, giving life to my creation — or at 
 
 And finally, I revisited the BOM again (yes, again), because my budget was tighter than the tolerances on a misaligned servo. I had to make pinpoint financial positioning, slicing costs like a samurai with a spreadsheet.
 
+At the end of Day 9, while most people were sleeping, I was battling a very earthly villain in my Martian mission
+Wires. And their love for twisting into a giant mess.
+
+So here’s the scene:
+
+I’ve got a 3D camera mounted on a servo.
+
+The servo does full 360° rotation.
+
+The camera captures glorious panoramic Martian dreams.
+
+BUT... the wires scream in pain every time the servo goes full spin.
+
+If left unchecked, after a few spins, the wires would twist so much they’d:
+
+Yank the USB port out,
+
+Wrap around the servo like a python,
+
+Or start emitting smoke signals (not the kind I want to transmit to Earth).
+
+⚙️ The Big Brain Fix™: Ping-Pong Rotation
+Instead of going full spin until it strangles itself, I engineered a plan:
+
+🚨 “Let the servo do 360°... then go 360° back the other way... and keep alternating.”
+
+Like a DJ scratching a record — but in space.
+
+So now the servo does:
+360° clockwise → pause
+
+360° counterclockwise → pause
+
+Repeat like a robot doing yoga
+
+The result?
+
+Camera gets full field coverage 🎥
+
+Wires stay untwisted 🧵
+
+Servo stays alive ⚙️
+
+My sanity remains mostly intact 🧠
+
+📡 Bonus: Wireless Data Relay Chain
+To top it off, I designed the full data relay route like this:
+
+ESP8266 sends 3D data from the flight controller.
+
+That gets received by a Raspberry Pi on the rotating mount (yes, the servo swingy one).
+
+That Pi has a USB Wi-Fi dongle and beams the data to the rover's Raspberry Pi.
+
+The rover Pi then relays the data to my PC.
+
+In an actual Mars mission: swap Wi-Fi for LoRa → Mars Orbiter → Earth, boom 💫
+
 That’s it for today’s episode.~ 4hours
 
 
