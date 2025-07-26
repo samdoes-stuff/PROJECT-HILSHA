@@ -280,9 +280,9 @@ And a charger module
 
 Together, they form the Power Trifecta™, giving life to my creation — or at least, helping it blink a few LEDs before crashing due to overdraw. 🔋⚡
 
-And finally, I revisited the BEOM again (yes, again), because my budget was tighter than the tolerances on a misaligned servo. I had to make pinpoint financial positioning, slicing costs like a samurai with a spreadsheet.
+And finally, I revisited the BOM again (yes, again), because my budget was tighter than the tolerances on a misaligned servo. I had to make pinpoint financial positioning, slicing costs like a samurai with a spreadsheet.
 
-That’s it for today’s episode.
+That’s it for today’s episode.~ 4hours
 
 
 <img width="952" height="511" alt="Screenshot 2025-07-25 142617" src="https://github.com/user-attachments/assets/ca7dda79-bb21-405b-aad3-775e08187f0d" />
