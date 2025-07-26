@@ -340,7 +340,31 @@ The rover Pi then relays the data to my PC.
 
 In an actual Mars mission: swap Wi-Fi for LoRa → Mars Orbiter → Earth, boom 💫
 
+
+
+
 That’s it for today’s episode.~ 4hours
 
 
 <img width="952" height="511" alt="Screenshot 2025-07-25 142617" src="https://github.com/user-attachments/assets/ca7dda79-bb21-405b-aad3-775e08187f0d" />
+
+
+## Day 10 (26 JULY 25)
+
+I Uploaded Everything (Even My Sanity)
+
+Today, I heroically uploaded all my files to the GitHub repo.
+
+Then came the 3D designing session...
+
+Conclusion:
+
+GitHub repo = ✅ Uploaded
+
+Case designs = ✅ Done
+
+Sanity = ❌ Missing
+
+Fun = 😵 evaporated somewhere in Fusion 360
+
+~ 4 hours
