@@ -2,4 +2,12 @@
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Raspberry Pi 5**        | Main SLAM processing unit (OAK-D Lite), evaluates SLAM quality, sends commands to PixRacer via ESP-01, and transfers files to Pi Zero 2 W. |
 | **PixRacer**              | Controls all servos based on commands from Pi 5 via ESPNow (via onboard ESP8266).                                                          |
-                               |
+                               
+📁 Folder Structure Assumption:
+SLAM data folder: /home/pi/slam_data/
+
+File format: .ply or .xyz or similar
+
+ESP-01 connected via USB or GPIO as serial (/dev/ttyUSB0)
+
+Pi Zero 2 W reachable via static IP (192.168.4.2) or ESPNow                            
