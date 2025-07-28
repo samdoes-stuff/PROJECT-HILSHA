@@ -370,3 +370,12 @@ Fun = 😵 evaporated somewhere in Fusion 360
 BOM Update Again because better Idea clicked
 
 ~ 5 hours
+
+## Day 11 (28 July 25)
+
+Redesigned the battery case. 
+
+Writing codes for my project anf instructions on how to make this work.
+
+~ 4 hours
+
