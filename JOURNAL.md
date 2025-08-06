@@ -79,6 +79,8 @@ After making the pcb I designed a case for the flight controller
 ~ 4 hours
 
 https://365.altium.com/files/DE5E7958-BE7D-470E-812E-0988A14BB30F
+
+
 <img width="1473" height="784" alt="Screenshot 2025-07-31 234317" src="https://github.com/user-attachments/assets/05de6197-fe0a-435c-9cd2-e83ee929407b" />
 <img width="1586" height="850" alt="Screenshot 2025-07-31 234256" src="https://github.com/user-attachments/assets/1161bf86-d2a0-4e27-87ff-e7aa20f18b65" />
 
