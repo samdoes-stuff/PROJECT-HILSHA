@@ -4,7 +4,7 @@ This Project Started from my intention to build A rover. And I needed autonomy f
 That is Dual IMU rebundancy Flight controller cheapest one to have this is about $70 plus minus $5 
 
 
- And that is without shipping and Mine is little lower with double better components than that specifically 60.88$ without shipping.
+ And that is without shipping and Mine is little lower with double better components than that specifically 70$ with shipping.
 
 <img width="1599" height="875" alt="image" src="https://github.com/user-attachments/assets/1fb379d2-1e1a-47ed-8f0a-76917e27b00d" />
  
