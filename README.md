@@ -1,7 +1,10 @@
 # PROJECT-HILSHA
 
 This Project Started from my intention to build A rover. And I needed autonomy for autonomy I needed mission planning and for mission planning I needed a specific type of flight Controller.
-That is Dual IMU rebundancy Flight controller cheapest one to have this is about $70 plus minus $5 . And that is without shipping and Mine is little lower with double better components than that specifically 60.88$ without shipping.
+That is Dual IMU rebundancy Flight controller cheapest one to have this is about $70 plus minus $5 
+
+
+ And that is without shipping and Mine is little lower with double better components than that specifically 60.88$ without shipping.
 
 <img width="1599" height="875" alt="image" src="https://github.com/user-attachments/assets/1fb379d2-1e1a-47ed-8f0a-76917e27b00d" />
  
