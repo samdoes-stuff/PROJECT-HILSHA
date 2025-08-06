@@ -1,12 +1,13 @@
 # PROJECT-HILSHA
 
 This Project Started from my intention to build A rover. And I needed autonomy for autonomy I needed mission planning and for mission planning I needed a specific type of flight Controller.
-That is Dual IMU rebundancy Flight controller cheapest one to have this is about $70 plus minus $5 
+That is Dual IMU rebundancy Flight controller cheapest one to have this is about $70 plus minus $5 with 10-15$ shipping.
 
 
- And that is without shipping and Mine is little lower with double better components than that specifically 70$ with shipping.
+ And that is without shipping and Mine is little lower but with double better components than that specifically 83.49$ with shipping.
 
-<img width="1599" height="875" alt="image" src="https://github.com/user-attachments/assets/1fb379d2-1e1a-47ed-8f0a-76917e27b00d" />
+<img width="1054" height="627" alt="image" src="https://github.com/user-attachments/assets/58f75a93-ff92-4272-86a1-418c2b7b4732" />
+
  
 This is actually a clone so that I can get firmware support from Mission Planner. For the Firmware I chose pixracer a discontinued Flight Controller board. Surprisingly it still supports mission planner till now and has dedicated ESP-01 port fot wifi logging. That is actually Nice.
 
