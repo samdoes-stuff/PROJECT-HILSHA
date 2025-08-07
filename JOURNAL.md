@@ -131,3 +131,16 @@ Future note: BOM sourcing is the part no YouTube video warns you about while bui
 Today was revision day.
 
 Did a quick review for my flight controller design (basically me staring at EasyEDA).
+
+#Day-07
+
+Assigning Parts to the project took so long because I have to manually assign them also i have to make a another project and import my project then have to assign it som much pain but worth it also had to correct the 3D files becuase they were not in correct position so I use the 3D manager from the tool to fix them 
+~ 7 hours
+<img width="1599" height="812" alt="image" src="https://github.com/user-attachments/assets/55841739-7d01-4af2-869c-f128ce9ef715" />
+<img width="1599" height="812" alt="image" src="https://github.com/user-attachments/assets/ca3ae721-25c6-4d52-9759-1572eca7b1d4" />
+<img width="1266" height="777" alt="Screenshot 2025-08-07 214520" src="https://github.com/user-attachments/assets/48dbf13b-e815-4a54-942b-ce603a94961b" />
+<img width="1246" height="777" alt="Screenshot 2025-08-07 214546" src="https://github.com/user-attachments/assets/509898f3-aabb-4d75-ae51-5a66a5b052de" />
+
+
+
+
